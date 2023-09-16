@@ -8,4 +8,4 @@
 เปรม<br>
 22 สิงหาคม 2566
 <hr>
-(Link: https://prehmieren.github.io/myBirthday/)
+(Link: https://prehm-birthday.netlify.app)
